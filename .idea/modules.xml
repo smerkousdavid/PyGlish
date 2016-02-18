@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/SynonymsPull.iml" filepath="$PROJECT_DIR$/.idea/SynonymsPull.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/Pyglish/.idea/SynonymsPull.iml" filepath="$USER_HOME$/PycharmProjects/Pyglish/.idea/SynonymsPull.iml" />
     </modules>
   </component>
 </project>

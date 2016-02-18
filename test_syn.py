@@ -1,5 +1,11 @@
-from Pyglish import Synonyms
+from Pyglish import Synonyms, Antonyms
 
+ant = Antonyms()
+
+print ant.get_best("ready")
+
+
+'''
 syn = Synonyms()
 
 #  Get all relevant
@@ -9,3 +15,4 @@ print "ROAD: %s" % str(syn.get_all("road"))
 #  Get the best
 print "ALL RIGHT: " + syn.get_best("all right")
 print "GRITTY: " + syn.get_best("gritty")
+'''
