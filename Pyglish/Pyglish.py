@@ -3,6 +3,11 @@ from bs4 import BeautifulSoup
 import nltk
 
 
+class Writer:
+    def __init__(self):
+        pass
+
+
 class Language:
     def __init__(self):
         nltk.download('all')

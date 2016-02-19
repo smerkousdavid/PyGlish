@@ -1,0 +1,2 @@
+include pyglish SMALLREADME
+recursive-include Pyglish/docs *
