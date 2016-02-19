@@ -1,8 +1,10 @@
-from Pyglish import Synonyms, Antonyms
+from Pyglish import Synonyms, Antonyms, Language
 
 ant = Antonyms()
 
-print ant.get_best("ready")
+lan = Language()
+
+# print ant.get_best("ready")
 
 
 '''

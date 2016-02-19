@@ -1,5 +1,11 @@
 from urllib2 import urlopen, quote, HTTPError
 from bs4 import BeautifulSoup
+import nltk
+
+
+class Language:
+    def __init__(self):
+        nltk.download('all')
 
 
 class Synonyms:

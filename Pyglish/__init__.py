@@ -1,1 +1,1 @@
-from Pyglish import Synonyms, Antonyms
+from Pyglish import Synonyms, Antonyms, Language
